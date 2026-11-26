@@ -13,3 +13,6 @@ target/
 
 dir_watch/dir_watch
 tiny_strace/tiny_strace
+
+dir_watch/dir_watch
+tiny_strace/tiny_strace
