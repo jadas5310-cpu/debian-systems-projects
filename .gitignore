@@ -1,0 +1,12 @@
+# Rust build outputs
+target/
+
+# C / Linux Kernel Module build outputs
+*.o
+*.ko
+*.mod*
+*.cmd
+*.order
+*.symvers
+.tmp_versions/
+
