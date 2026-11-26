@@ -10,3 +10,6 @@ target/
 *.symvers
 .tmp_versions/
 
+
+dir_watch/dir_watch
+tiny_strace/tiny_strace
